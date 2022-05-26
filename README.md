@@ -27,9 +27,11 @@
 
 ![oo.png](Gambar/00.png)
 
+
 6. hasilnya
 
-![000.png](gambar/000.png)
+
+![000.png](Gambar/000.png)
 
 
 
