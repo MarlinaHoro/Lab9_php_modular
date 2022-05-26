@@ -18,7 +18,7 @@
         <nav>
             <a href="Home.php">Home</a>
             <a href="About.php">Tentang</a>
-            <a href="Konak.php">Kontak</a>
+            <a href="Kontak.php">Kontak</a>
         </nav>
     </div>
 </body>
