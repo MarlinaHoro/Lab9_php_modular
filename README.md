@@ -34,6 +34,16 @@
 ![000.png](Gambar/000.png)
 
 
+## tugas
+
+Pertanyaan dan Tugas
+
+Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
+database, sehingga setiap halamannya memiliki template tampilan yang sama.
+
+![hasiltambh.png](Gambar/hasiltambh.png)
+
+
 
 
 
