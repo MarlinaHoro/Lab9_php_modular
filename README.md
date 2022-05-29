@@ -44,7 +44,13 @@ database, sehingga setiap halamannya memiliki template tampilan yang sama.
 1. ![hasiltambh.png](Gambar/hasiltambh.png)
 
 
+
+
+
 2.  ![hasilindex.png](Gambar/hasilindex.png)
+
+
+
 
 3.  ![ubahhasil.png](Gambar/ubahhasil.png)
 
